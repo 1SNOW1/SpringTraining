@@ -3,8 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/spring-11-Data-TableCreation/spring-11-Data-TableCreation.iml" filepath="$PROJECT_DIR$/spring-11-Data-TableCreation/spring-11-Data-TableCreation.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring-14-Data-Queries/spring-14-Data-Queries.iml" filepath="$PROJECT_DIR$/spring-14-Data-Queries/spring-14-Data-Queries.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/spring-training.iml" filepath="$PROJECT_DIR$/.idea/spring-training.iml" />
     </modules>
   </component>
 </project>
