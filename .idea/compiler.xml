@@ -8,7 +8,6 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spring-10-Thymeleaf" />
-        <module name="spring-11-Data-TableCreation" />
         <module name="spring-03-Wiring" />
         <module name="spring-00-Coupling" />
         <module name="spring-01-Core-IoC-Bean-Annotation" />
@@ -16,14 +15,16 @@
         <module name="spring-09-MVC-Model" />
         <module name="spring-08-MVC-Controller" />
         <module name="spring-02-Core-IoC-Stereotype-Annotation" />
-        <module name="spring-12-Data-Relationship (2)" />
+        <module name="spring-12-Data-Relationship" />
         <module name="spring-04-Autowiring" />
         <module name="spring-06-Core-BeanScope" />
         <module name="spring-07-SpringBoot-Demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="spring-12-Data-Relationship" target="17" />
+      <module name="spring-11-Data-TableCreation" target="17" />
+      <module name="spring-12-Data-Relationship (1)" target="17" />
+      <module name="spring-12-Data-Relationship (2)" target="17" />
       <module name="spring-14-Data-Queries" target="11" />
     </bytecodeTargetLevel>
   </component>
